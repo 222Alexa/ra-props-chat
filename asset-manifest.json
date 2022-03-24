@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-props-chat/static/css/main.a7edc704.css",
+    "main.js": "/ra-props-chat/static/js/main.00ed18a0.js",
+    "static/js/787.226321c9.chunk.js": "/ra-props-chat/static/js/787.226321c9.chunk.js",
+    "index.html": "/ra-props-chat/index.html",
+    "main.a7edc704.css.map": "/ra-props-chat/static/css/main.a7edc704.css.map",
+    "main.00ed18a0.js.map": "/ra-props-chat/static/js/main.00ed18a0.js.map",
+    "787.226321c9.chunk.js.map": "/ra-props-chat/static/js/787.226321c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7edc704.css",
+    "static/js/main.00ed18a0.js"
+  ]
+}
