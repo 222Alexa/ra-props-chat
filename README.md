@@ -121,3 +121,5 @@ const messages = [{
 Используйте файл из каталога css для стилизации.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/0xg5xtd9xyp6sadp/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ra-props-chat/branch/main)
